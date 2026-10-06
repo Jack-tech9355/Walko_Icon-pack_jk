@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack">
+        <item>ic_walko_whatsapp</item>
+        <item>ic_walko_instagram</item>
+        <item>ic_walko_youtube</item>
+        <item>ic_walko_telegram</item>
+        <item>ic_walko_spotify</item>
+        <item>ic_walko_netflix</item>
+        <item>ic_walko_chrome</item>
+        <item>ic_walko_twitter</item>
+        <item>ic_walko_snapchat</item>
+        <item>ic_walko_gmail</item>
+        <item>ic_walko_maps</item>
+        <item>ic_walko_photos</item>
+        <item>ic_walko_gpay</item>
+        <item>ic_walko_paytm</item>
+        <item>ic_walko_phonepe</item>
+        <item>ic_walko_jio</item>
+        <item>ic_walko_amazon</item>
+        <item>ic_walko_flipkart</item>
+        <item>ic_walko_phone</item>
+        <item>ic_walko_messages</item>
+        <item>ic_walko_camera</item>
+        <item>ic_walko_settings</item>
+        <item>ic_walko_clock</item>
+        <item>ic_walko_calculator</item>
+        <item>ic_walko_notes</item>
+        <item>ic_walko_files</item>
+        <item>ic_walko_playstore</item>
+        <item>ic_walko_discord</item>
+        <item>ic_walko_reddit</item>
+        <item>ic_walko_github</item>
+    </string-array>
+</resources>
