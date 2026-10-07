@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Walko Icons</string>
+    <string name="app_tagline">Ultra-HD Custom Icon Studio &amp; Launcher Themer</string>
+    <string name="developer_name">JackTech</string>
+    <string name="developer_credit">Made with ❤️ in India</string>
+    <string name="developer_subtext">Love from India 🇮🇳</string>
+    <string name="app_version">1.1.0 (Smooth Cream Edition)</string>
+
+    <!-- Navigation tabs -->
+    <string name="nav_home">Icons</string>
+    <string name="nav_studio">DIY Studio</string>
+    <string name="nav_apply">Apply</string>
+    <string name="nav_mockup">Mockup</string>
+    <string name="nav_about">About</string>
+
+    <!-- General actions -->
+    <string name="search_hint">Search 80+ themed icons or apps…</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="create_shortcut">Pin to Home Screen</string>
+    <string name="save_creation">Save to My Creations</string>
+    <string name="pick_icon">Pick Icon</string>
+</resources>

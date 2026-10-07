@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appmap>
+    <item class="com.whatsapp.Main" package="com.whatsapp" name="ic_walko_whatsapp" />
+    <item class="com.instagram.mainactivity.MainActivity" package="com.instagram.android" name="ic_walko_instagram" />
+    <item class="com.google.android.youtube.HomeActivity" package="com.google.android.youtube" name="ic_walko_youtube" />
+    <item class="org.telegram.ui.LaunchActivity" package="org.telegram.messenger" name="ic_walko_telegram" />
+    <item class="com.spotify.music.MainActivity" package="com.spotify.music" name="ic_walko_spotify" />
+    <item class="com.netflix.mediaclient.ui.launch.UIWebViewActivity" package="com.netflix.mediaclient" name="ic_walko_netflix" />
+    <item class="com.google.android.apps.chrome.Main" package="com.android.chrome" name="ic_walko_chrome" />
+</appmap>

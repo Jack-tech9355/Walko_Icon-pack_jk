@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Walko 'W' luxury geometric emblem -->
+    <!-- Outer Shield/Hex -->
+    <path
+        android:fillColor="#C86D51"
+        android:pathData="M54,26 C68,26 80,38 80,52 C80,68 64,80 54,84 C44,80 28,68 28,52 C28,38 40,26 54,26 Z" />
+    <!-- Inner Accent Badge -->
+    <path
+        android:fillColor="#E08365"
+        android:pathData="M54,32 C64,32 74,41 74,52 C74,64 61,74 54,77 C47,74 34,64 34,52 C34,41 44,32 54,32 Z" />
+    <!-- White 'W' Monogram -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,44 L46,44 L50.5,60 L54,47 L57.5,60 L62,44 L66,44 L60,66 L55.5,66 L52.5,55 L49.5,66 L45,66 Z" />
+    <!-- Golden Star Accent -->
+    <path
+        android:fillColor="#F4D06F"
+        android:pathData="M54,36 L55.5,39.5 L59,40 L56.5,42.5 L57,46 L54,44 L51,46 L51.5,42.5 L49,40 L52.5,39.5 Z" />
+</vector>
